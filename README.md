@@ -10,3 +10,5 @@ Some of the implemented features include the ability to:
 - Delete history
 - Export with or without baking animation
 
+
+![Image of Maxart script running](Pic.png)
